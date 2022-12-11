@@ -43,7 +43,7 @@
     <object-folder>
         <object-type name="TiledBackground" sid="529286093535775">
             <plugin id="TiledBg" />
-            <texture />
+            <texture original-source="S:\git\Gamlr\img-use\image144.png" />
         </object-type>
         <object-type name="Player" sid="601453372762122">
             <plugin id="Sprite" />
@@ -60,8 +60,8 @@
             </behaviors>
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="659836588137579" speed="5">
-                    <frame duration="1" hotspotX="0.504951" hotspotY="0.504951">
-                        <image-point name="Imagepoint 1" x="1.0495" y="0.504951" />
+                    <frame duration="1" hotspotX="0.504951" hotspotY="0.504951" original-source="S:\git\Gamlr\img-use\image146.png">
+                        <image-point name="Imagepoint 1" x="0.960396" y="0.485149" />
                         <collision-poly>
                             <point x="0.0606436" y="0.220297" />
                             <point x="0.414604" y="0" />
@@ -115,7 +115,7 @@
             </behaviors>
             <animation-folder>
                 <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="660222707567953" speed="5">
-                    <frame duration="1" hotspotX="0.5" hotspotY="0.5">
+                    <frame duration="1" hotspotX="0.504951" hotspotY="0.5" original-source="S:\git\Gamlr\img-use\image145.png">
                         <collision-poly>
                             <point x="0.389085" y="0.318627" />
                             <point x="0.980634" y="0.102941" />
@@ -149,6 +149,21 @@
         </object-type>
         <object-type name="Keyboard" sid="757426254817994">
             <plugin id="Keyboard" />
+        </object-type>
+        <object-type name="Sprite" sid="904746715991392">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="878245353083645" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.503067" original-source="S:\git\Gamlr\img-use\image151.png">
+                        <collision-poly>
+                            <point x="0.125" y="0.220859" />
+                            <point x="0.875" y="0.220859" />
+                            <point x="0.857639" y="0.748466" />
+                            <point x="0.121528" y="0.785276" />
+                        </collision-poly>
+                    </frame>
+                </animation>
+            </animation-folder>
         </object-type>
     </object-folder>
     <families />

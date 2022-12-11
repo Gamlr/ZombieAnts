@@ -1,3 +1,4 @@
+- remove runny car's exclusive assets/events; keep language and other universal features
 - Rename to Zombie Ants
 
 old:

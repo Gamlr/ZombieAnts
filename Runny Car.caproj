@@ -8,7 +8,7 @@
     <author-website></author-website>
     <app-id></app-id>
     <unique-id>2t4bm36f461uu</unique-id>
-    <saved-with-version>19100</saved-with-version>
+    <saved-with-version>24400</saved-with-version>
     <used-plugins>
         <plugin author="Scirra" id="AJAX" version="1">AJAX</plugin>
         <plugin author="Scirra" id="Browser" version="1">Browser</plugin>
@@ -25,7 +25,7 @@
         <plugin author="Zack0Wack0/Scirra" id="WebStorage" version="1">WebStorage</plugin>
         <plugin author="Scirra" id="XML" version="1">XML</plugin>
         <plugin author="Scirra" id="gamepad" version="1">Gamepad</plugin>
-        <plugin author="Scirra.com" id="win8" version="1">Windows 8</plugin>
+        <plugin author="Scirra.com" id="win8" version="1">Windows Store</plugin>
     </used-plugins>
     <used-behaviors>
         <behavior author="Scirra" id="Anchor" version="1">Anchor</behavior>
@@ -240,7 +240,7 @@
         </object-type>
         <object-type name="TiledBackground2" sid="8089392289784943">
             <plugin id="TiledBg" />
-            <texture />
+            <texture original-source="S:\git\Gamlr\2014 za\2013-2014_base\Textures\TiledBackground.png" />
         </object-type>
         <object-type name="RC" sid="5630727341319532">
             <plugin id="Sprite" />

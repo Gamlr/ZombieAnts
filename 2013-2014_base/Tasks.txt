@@ -1,0 +1,7 @@
+- Gamlr logo screen
+
+- title screen
+
+- convert all assets to brickpixelated
+
+- add levels, every new level the player need less bullets vs a zombie but there are more zombies appearing
