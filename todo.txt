@@ -1,6 +1,3 @@
-- remove runny car's exclusive assets/events; keep language and other universal features
-- Rename to Zombie Ants
-
 old:
 Suas preferências de "Idiomas" foram armazenadas em seu savegame.
 Remover o irrelevante global value de language
